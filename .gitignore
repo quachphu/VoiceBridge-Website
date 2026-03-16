@@ -15,3 +15,5 @@ VoiceBridge-Website/.next.*
 VoiceBridge-Website/node_modules
 VoiceBridge-Website/node_modules.*
 VoiceBridge-Website/.gitignore
+VoiceBridge-Website/eslint.config.mjs
+VoiceBridge-Website/public/*
