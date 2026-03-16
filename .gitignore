@@ -8,3 +8,10 @@
 .env.development
 .env.production
 .env.test
+
+# Next.js build artifacts
+VoiceBridge-Website/.next
+VoiceBridge-Website/.next.*
+VoiceBridge-Website/node_modules
+VoiceBridge-Website/node_modules.*
+VoiceBridge-Website/.gitignore
